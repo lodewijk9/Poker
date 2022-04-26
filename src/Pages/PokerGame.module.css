@@ -1,0 +1,18 @@
+.board{
+    background-color:green;
+    height: calc(100vh - 90px);
+    border-radius: 100px;
+}
+
+.edges_Brown{
+    background-color: rgba(155, 125, 103);
+    padding:20px;
+    border-radius: 100px;
+}
+
+.edges_Black{
+    background-color: rgb(12, 8, 6);
+    padding:20px;
+    border-radius: 100px;
+    border: 5px solid rgb(119, 125, 126);
+}
